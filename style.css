@@ -466,7 +466,7 @@
 			height:100%;
 		}
 		#ab-p{
-			font-size:15px;
+			font-size:20px;
 			margin-top:-20px;
 		}
 		.ab-item {
@@ -1139,7 +1139,7 @@
 			 margin-left:16px;
 			}
 			#ab-p {
-				font-size: 12px;
+				font-size: 16px;
 				margin-top: -20px;
 			}
 			.ab-item{max-width:13vh}
@@ -1170,7 +1170,7 @@
 			 font-size:35px; margin-top:0px;
 			}
 			#ab-p {
-				font-size: 11px;
+				font-size: 14px;
 				margin-top: -20px;
 			}
 			.ab-item{max-width:10vh}
@@ -1180,7 +1180,7 @@
 			}
 			.sec-image {
 				max-width: 118px;
-				max-height:311px;
+				max-height:270px;
 				margin-left:0px;
 			}
 			.item,.item2{max-height:18vh}
@@ -1205,7 +1205,7 @@
 			 margin-left:16px;
 			}
 			#ab-p {
-				font-size: 11px;
+				font-size: 13px;
 				margin-top: -20px;
 			}
 			.ab-item{max-width:8vh}
@@ -1215,7 +1215,7 @@
 			}
 			.sec-image {
 				max-width: 118px;
-				max-height:311px;
+				max-height:270px;
 				margin-left:0px;
 			}
 			.item,.item2{max-height:18vh}
@@ -1242,7 +1242,7 @@
 				margin-top: 10px;
 			}
 			#ab-p {
-				font-size: 10px;
+				font-size: 12px;
 				margin-top: -9px;
 			}
 			.ab-meme-container{margin-top:7px;}
@@ -1253,7 +1253,7 @@
 			}
 			.sec-image {
 				max-width: 113px;
-				max-height:275px;
+				max-height:270px;
 				margin-left:0px;
 			}
 
@@ -1265,7 +1265,7 @@
 			}
 
 			#ab-p {
-				font-size: 10px;
+				font-size: 12px;
 				margin-top: -9px;
 			}
 			.ab-meme-container{margin-top:7px;}
